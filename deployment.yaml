@@ -21,4 +21,4 @@ spec:
       - name: demo
         image: docker.io/gokulgk01/demo:1
         ports:
-        - containerPort: 8080
+        - containerPort: 8082
